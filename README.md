@@ -18,6 +18,10 @@ project-folder/
 
 http://16.171.155.12/
 
+This project was originally deployed on an AWS EC2 instance (Amazon Linux 2023 + Apache).  
+The EC2 instance has since been terminated to avoid ongoing costs, so the live demo link is no longer active.
+However, the deployment process is fully documented in this repository, and you can easily recreat
+
 ## 🛠️ Technologies Used
 
 - Amazon EC2
